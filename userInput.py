@@ -1,0 +1,10 @@
+x = input("Enter your Name : ")
+print("your entered : ",x)
+
+y = input("Enter 1st Num : ")
+print(type(y))
+a = int(y)   #int(input("Enter number : "))
+z = input("Enter 2nd Num : ")
+print(type(z))
+b = int(z)
+print("sum of y,z : ",a+b)
